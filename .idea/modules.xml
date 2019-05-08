@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/StructureAndAlgorithms.iml" filepath="$PROJECT_DIR$/StructureAndAlgorithms.iml" />
+      <module fileurl="file://$USER_HOME$/workspace/domt-master/domt-master.iml" filepath="$USER_HOME$/workspace/domt-master/domt-master.iml" />
     </modules>
   </component>
 </project>

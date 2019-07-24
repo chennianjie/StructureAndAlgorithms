@@ -1,4 +1,4 @@
-package dongtaiguihua;
+package dynamicPrograming;
 
 /**
  * 动态规划版本

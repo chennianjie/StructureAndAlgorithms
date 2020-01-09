@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Eclipse" />
     <wildcardResourcePatterns>
       <entry name="!?*.java" />
       <entry name="!?*.form" />
@@ -11,17 +12,9 @@
       <entry name="!?*.kt" />
       <entry name="!?*.clj" />
     </wildcardResourcePatterns>
-    <annotationProcessing>
-      <profile name="Maven default annotation processors profile" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="StructureAndAlgorithms" />
-      </profile>
-    </annotationProcessing>
     <bytecodeTargetLevel target="8">
       <module name="domt-master" target="7" />
-      <module name="StructureAndAlgorithms" target="1.8" />
+      <module name="StructureAndAlgorithms" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
